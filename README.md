@@ -18,7 +18,7 @@ For additional resources on JavaScript, visit [JavaScript MDN Documentation](htt
 
 ## Images
 
-![JavaScript Front-End Development](./javascript_frontend_development.jpg)
+![JavaScript Front-End Development](./essential-frontend-development-languages-1024x511.jpg)
 
 ***Important Notice:*** This repository contains assignments and projects related to front-end web development. Mastering JavaScript is essential for creating dynamic web applications.
 
